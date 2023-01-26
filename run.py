@@ -1,8 +1,6 @@
 
-
-
-sum = 1
-product = -4032
+sum = input("Sum :  ")
+product = input("Product :  ")
 
 boundNumber = sum
 if abs(product) > abs(sum):
