@@ -1,6 +1,10 @@
-
+"""
 sum = input("Sum :  ")
 product = input("Product :  ")
+"""
+sum = 14
+product = -11
+
 
 boundNumber = sum
 if abs(product) > abs(sum):
